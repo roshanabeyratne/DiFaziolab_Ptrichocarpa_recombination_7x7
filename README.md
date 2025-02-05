@@ -6,7 +6,7 @@
 ## General info
 This repository contains analysis pipeline for the follwing project titled 
 High resolution mapping reveals hotspots and sex-biased recombination in Populus trichocarpa
-(DOI: )
+(DOI: https://doi.org/10.1093/g3journal/jkac269)
 
 ## Authors of the analysis pipeline
 * Chanaka Roshan Abeyratne (CRA)
